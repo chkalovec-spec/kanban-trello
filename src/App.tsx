@@ -1,9 +1,12 @@
-import './App.css'
+import { Column } from 'components/Column'
+import './App.scss'
 
 function App() {
   return (
     <>
-      <div className=''>Kanban Trello</div>
+      <div className='app-wrapper'>
+        <Column />
+      </div>
     </>
   )
 }
