@@ -58,4 +58,27 @@ export const data: DataType = [
       },
     ],
   },
+  {
+    id: generate(),
+    title: 'Планы на день',
+    tasks: [
+      {
+        id: generate(),
+        text: 'Записаться на курс по React',
+      },
+      {
+        id: generate(),
+        text: 'Забронировать тир на субботу',
+      },
+      {
+        id: generate(),
+        text: 'Накидать тем для статей в блог',
+      },
+    ],
+  },
+  {
+    id: generate(),
+    title: 'Итоги',
+    tasks: [],
+  },
 ]
