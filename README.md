@@ -1,6 +1,7 @@
 # Trello Clone
 
 This project is available [here](https://github.com/facebook/create-react-app).
+[Link](https://www.figma.com/file/GRQn8carvWJVsKJeWmIX6Pbr/Kanban?node-id=13%3A300) to the layout.
 
 ## Stack
 
