@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/kanban-trello/static/css/main.e9741902.chunk.css",
+    "main.js": "/kanban-trello/static/js/main.695a6c8e.chunk.js",
+    "main.js.map": "/kanban-trello/static/js/main.695a6c8e.chunk.js.map",
+    "runtime-main.js": "/kanban-trello/static/js/runtime-main.ced0c8c2.js",
+    "runtime-main.js.map": "/kanban-trello/static/js/runtime-main.ced0c8c2.js.map",
+    "static/js/2.f2a92d67.chunk.js": "/kanban-trello/static/js/2.f2a92d67.chunk.js",
+    "static/js/2.f2a92d67.chunk.js.map": "/kanban-trello/static/js/2.f2a92d67.chunk.js.map",
+    "index.html": "/kanban-trello/index.html",
+    "static/css/main.e9741902.chunk.css.map": "/kanban-trello/static/css/main.e9741902.chunk.css.map",
+    "static/js/2.f2a92d67.chunk.js.LICENSE.txt": "/kanban-trello/static/js/2.f2a92d67.chunk.js.LICENSE.txt",
+    "static/media/addIcon.0bbf1711.svg": "/kanban-trello/static/media/addIcon.0bbf1711.svg",
+    "static/media/App.scss": "/kanban-trello/static/media/bgImage.198e837c.jpg",
+    "static/media/closeIcon.4ac10f93.svg": "/kanban-trello/static/media/closeIcon.4ac10f93.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ced0c8c2.js",
+    "static/js/2.f2a92d67.chunk.js",
+    "static/css/main.e9741902.chunk.css",
+    "static/js/main.695a6c8e.chunk.js"
+  ]
+}
