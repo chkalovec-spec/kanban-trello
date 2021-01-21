@@ -1,0 +1,30 @@
+@import 'styles/variables.scss';
+
+.board-title {
+  margin-bottom: $spacing * 3;
+  padding-right: $spacing * 2;
+  padding-top: $spacing * 2;
+
+  font-weight: 700;
+}
+
+.board-tasks {
+  overflow: auto;
+
+  &__item {
+    padding: $spacing * 2 $spacing * 3;
+    margin-right: $spacing * 2;
+    margin-bottom: $spacing * 2;
+
+    background: $color-white;
+    box-shadow: 0px 1px 4px rgba(9, 45, 66, 0.25);
+    border-radius: 3px;
+
+    user-select: none;
+    &--dragging {
+      @extend .board-tasks__item;
+
+      filter: brightness(90%);
+    }
+  }
+}

@@ -64,6 +64,12 @@
     &:hover {
       filter: brightness(95%);
     }
+
+    &:disabled {
+      cursor: auto;
+      filter: none;
+      opacity: 0.7;
+    }
   }
   &__icon {
     width: 15px;

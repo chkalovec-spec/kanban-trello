@@ -1,7 +1,7 @@
 import generate from 'shortid'
 import { DataType } from './types'
 
-export const data: DataType = [
+export const boardsData: DataType = [
   {
     id: generate(),
     title: 'Планы на месяц',
@@ -12,11 +12,11 @@ export const data: DataType = [
       },
       {
         id: generate(),
-        text: 'Пройти курс по React',
+        text: 'Продумать идею бренда',
       },
       {
         id: generate(),
-        text: 'Пройти курс по React',
+        text: 'Дизайн прототипа',
       },
       {
         id: generate(),
@@ -54,7 +54,7 @@ export const data: DataType = [
       },
       {
         id: generate(),
-        text: 'Пройти курс по React',
+        text: 'Не забыть зонтик',
       },
     ],
   },

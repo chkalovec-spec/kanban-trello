@@ -1,0 +1,20 @@
+@import 'styles/variables.scss';
+
+.boards-wrapper {
+  display: flex;
+  align-items: flex-start;
+}
+
+.board {
+  padding-left: $spacing * 2;
+  margin-right: $spacing * 3;
+
+  flex: 0 0 245px;
+  max-height: 95vh;
+
+  display: flex;
+  flex-direction: column;
+
+  background: $color-gray-bg;
+  border-radius: 3px;
+}
